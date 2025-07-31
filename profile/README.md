@@ -76,7 +76,7 @@ Planes típicos:
 
 ## 📬 Contacto
 
-> **Sitio web**: [https://dokable.com](https://dokable.com)  
+> **Sitio web**: [https://dokable.tech](https://dokable.tech)  
 > **LinkedIn**: [linkedin.com/company/inverskit](https://linkedin.com/company/inverskit)  
 
 ---
